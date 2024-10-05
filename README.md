@@ -1,1 +1,1 @@
-# Matem-tica-em-pyhton
+# Matematica-em-pyhton
